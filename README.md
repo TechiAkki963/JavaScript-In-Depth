@@ -12,6 +12,6 @@
 </tr>
 <tr>
 <td>01</td>
-<td>Console</td>
+<td>Console and Chrome Dev Tools</td>
 </tr>
 </table>
