@@ -1,14 +1,14 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #f4ce14;
-  opacity: 0.8;
+  background-color: #fff; /*#f4ce14*/
+  opacity: 0.9;
 }
 
 .header {
   margin: 50px;
   margin-bottom: 20px;
-  color: #f5f7f8;
+  color: #000; /*f5f7f8*/
   font-family: Arial;
   font-size: 48px;
 }
@@ -26,4 +26,22 @@
 span {
   font-family: Arial;
   font-size: 60px;
+}
+
+.main {
+  display: inline-block;
+}
+
+.circular--landscape img {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.circular--landscape img {
+  width: auto;
+  height: 100%;
+  margin-left: -50px;
 }
