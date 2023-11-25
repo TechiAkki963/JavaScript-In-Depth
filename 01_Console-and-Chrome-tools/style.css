@@ -1,30 +1,29 @@
-*{
-    margin:0;
-    padding: 0;
-    background-color: #F4CE14;
-    opacity: 0.8;
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f4ce14;
+  opacity: 0.8;
 }
 
-.header{
-    margin: 50px;
-    margin-bottom: 20px;
-    color: #F5F7F8;
-    font-family: Arial;
-    font-size: 48px;
+.header {
+  margin: 50px;
+  margin-bottom: 20px;
+  color: #f5f7f8;
+  font-family: Arial;
+  font-size: 48px;
 }
 
-.subject{
-    font-family: Arial;
-    font-size: 500px;
-    color: black;
-    margin: 200px;
-    margin-bottom: 20px;
-    margin-top: 0px;
-    display: inline-block;
+.subject {
+  font-family: Arial;
+  font-size: 500px;
+  color: black;
+  margin: 200px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  display: inline-block;
 }
 
-span{
-    font-family: Arial;
-    font-size: 60px;
+span {
+  font-family: Arial;
+  font-size: 60px;
 }
-
