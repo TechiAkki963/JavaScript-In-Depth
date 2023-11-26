@@ -47,11 +47,15 @@ span {
     margin-left: -50px;
   }
   */
-
+.setup {
+  background-color: azure;
+}
 .setup p {
-  margin-left: 40px;
+  padding: 40px;
   font-size: 24px;
   font-weight: bold;
+  align-items: center;
+  background-color: lightsalmon;
 }
 
 ul {
