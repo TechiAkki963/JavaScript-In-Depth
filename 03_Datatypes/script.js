@@ -28,3 +28,28 @@ console.log(score, typeof score); //undefined undefined
 //? Symbol
 const id = Symbol("id");
 console.log(id, typeof id); //Symbol(id) symbol
+
+//? Reference Data Type /
+
+//? Arrays
+
+const rollNumber = [1, 2, 3, 4, 5, 6];
+console.log(rollNumber, typeof rollNumber); //[ 1, 2, 3, 4, 5, 6 ] object
+
+//? Objects
+
+const admission_id = {
+  first_name: "John",
+  last_name: "Snow",
+  mail_id: "john_snow@GOT.com",
+};
+console.log(admission_id, typeof admission_id); //{ first_name: 'John', last_name: 'Snow', mail_id: 'john_snow@GOT.com' } object
+
+//? Function
+
+function greet() {
+  console.log("Welcome to the Asguard");
+}
+console.log(greet(), typeof greet); //Welcome to the Asguard  function
+
+//? Note: Datatype of a function is shown in the console as 'Function" but actually is an "Object"

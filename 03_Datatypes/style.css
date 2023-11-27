@@ -1,15 +1,15 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #fff; /*#f4ce14*/
+  background-color: #fff;
   /* opacity: 0.9; */
 }
 
 .header {
   margin: 50px;
   margin-bottom: 20px;
-  color: #000; /*#f5f7f8*/
-  font-family: Arial;
+  color: #000;
+  /font-family: Arial;
   font-size: 48px;
 }
 
