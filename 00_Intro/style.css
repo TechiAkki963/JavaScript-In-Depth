@@ -14,8 +14,9 @@
 }
 
 .subject {
+  text-align: left;
   font-family: Arial;
-  font-size: 500px;
+  font-size: 350px;
   color: black;
   margin: 200px;
   margin-bottom: 20px;
